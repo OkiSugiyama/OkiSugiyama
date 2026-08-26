@@ -1,6 +1,6 @@
 <svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
   <title id="title">Oki Sugiyama</title>
-  <desc id="description">AI researcher and full-stack engineer building human-centered intelligent systems.</desc>
+  <desc id="description">AI researcher, AI/ML engineer, and full-stack engineer building human-centered intelligent systems.</desc>
   <defs>
     <linearGradient id="background" x1="30" y1="20" x2="1160" y2="320" gradientUnits="userSpaceOnUse">
       <stop stop-color="#111827"/>
@@ -37,6 +37,6 @@
   </g>
   <text x="76" y="125" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1">Oki Sugiyama</text>
   <rect x="76" y="151" width="510" height="4" rx="2" fill="url(#accent)"/>
-  <text x="76" y="202" fill="#E0E7FF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="500">AI Researcher  •  Full-Stack Engineer</text>
+  <text x="76" y="202" fill="#E0E7FF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="500">AI Researcher  •  AI/ML Engineer  •  Full-Stack Engineer</text>
   <text x="76" y="245" fill="#BAE6FD" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20">Human-centered AI, built all the way to the product.</text>
 </svg>
