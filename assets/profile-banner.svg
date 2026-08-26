@@ -1,0 +1,42 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Oki Sugiyama</title>
+  <desc id="description">AI researcher and full-stack engineer building human-centered intelligent systems.</desc>
+  <defs>
+    <linearGradient id="background" x1="30" y1="20" x2="1160" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="0.48" stop-color="#312E81"/>
+      <stop offset="1" stop-color="#075985"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="250" y1="74" x2="920" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#67E8F9"/>
+    </linearGradient>
+    <filter id="blur" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="45"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#background)"/>
+  <circle cx="1040" cy="58" r="145" fill="#22D3EE" fill-opacity="0.13" filter="url(#blur)"/>
+  <circle cx="125" cy="310" r="185" fill="#8B5CF6" fill-opacity="0.18" filter="url(#blur)"/>
+  <g opacity="0.32" stroke="#BAE6FD">
+    <path d="M910 75L975 112L1040 75L1105 112"/>
+    <path d="M910 133L975 170L1040 133L1105 170"/>
+    <path d="M910 191L975 228L1040 191L1105 228"/>
+    <circle cx="910" cy="75" r="5" fill="#C4B5FD"/>
+    <circle cx="975" cy="112" r="5" fill="#67E8F9"/>
+    <circle cx="1040" cy="75" r="5" fill="#C4B5FD"/>
+    <circle cx="1105" cy="112" r="5" fill="#67E8F9"/>
+    <circle cx="910" cy="133" r="5" fill="#67E8F9"/>
+    <circle cx="975" cy="170" r="5" fill="#C4B5FD"/>
+    <circle cx="1040" cy="133" r="5" fill="#67E8F9"/>
+    <circle cx="1105" cy="170" r="5" fill="#C4B5FD"/>
+    <circle cx="910" cy="191" r="5" fill="#C4B5FD"/>
+    <circle cx="975" cy="228" r="5" fill="#67E8F9"/>
+    <circle cx="1040" cy="191" r="5" fill="#C4B5FD"/>
+    <circle cx="1105" cy="228" r="5" fill="#67E8F9"/>
+  </g>
+  <text x="76" y="125" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1">Oki Sugiyama</text>
+  <rect x="76" y="151" width="510" height="4" rx="2" fill="url(#accent)"/>
+  <text x="76" y="202" fill="#E0E7FF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="500">AI Researcher  •  Full-Stack Engineer</text>
+  <text x="76" y="245" fill="#BAE6FD" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20">Human-centered AI, built all the way to the product.</text>
+</svg>
