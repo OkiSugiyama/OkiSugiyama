@@ -21,7 +21,6 @@ I care about the full path from an idea to evidence: defining the problem, build
 | [**BookAIReview**](https://www.okisugiyama.com/projects/reviews) · [Live product](https://bookaireview.okisugiyama.com/) | A social book-discovery platform with hybrid personalized recommendations. | LightGCN and content-based recommendations, Django REST Framework, React, PostgreSQL, and AWS ECS. |
 | [**Emotional Friend**](https://www.okisugiyama.com/projects/emotional-friend) · [Live demo](https://emotionalfriendchatbot.okisugiyama.com/) | An emotion-aware conversational experience that adapts to facial expressions in real time. | PyTorch computer vision, WebRTC, React, TypeScript, Firebase, and privacy-conscious controls. |
 | [**Lemon Discharger**](https://www.okisugiyama.com/projects/game) · [Play](https://lemondischargergame.okisugiyama.com/) | A fast-paced multiplayer strategy game with 1.5-second turns. | React, TypeScript, Socket.IO, server-side validation, reconnection, and synchronized game state. |
-| [**Purchase Control System**](https://www.okisugiyama.com/projects/tgt-pcs) | A browser extension that makes the environmental cost of online purchases visible at decision time. | Real-time emissions estimates across four Amazon regions and research-driven interaction design. |
 
 ## What I work with
 
