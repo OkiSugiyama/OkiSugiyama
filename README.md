@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.okisugiyama.com/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/oki-sugiyama634/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/oki-sugiyama/">LinkedIn</a> ·
   <a href="https://corallab.net/people">CORAL Lab</a>
 </p>
 
